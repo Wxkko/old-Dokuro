@@ -36,6 +36,8 @@ Points in Dokuro are a way of keeping track of how many of our events you've att
 [Y](#y)
 [Z](#z)
 
+Last updated here: August 22nd
+
 ### Numbers
 
 | Name | Current Rank | Next Rank | Points |
